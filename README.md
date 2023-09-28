@@ -1,4 +1,4 @@
-# Costs
+# Annotations
 
 Aplicação web que permite a criação de flashcards como uma forma eficaz de organizar suas anotações. Os flashcards permitem priorizar anotações específicas e facilitam a revisão.
 
